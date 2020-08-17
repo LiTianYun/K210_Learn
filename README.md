@@ -1,13 +1,10 @@
 # K210_Learn
 学习K210的一些例程与资料
 =====================
-硬件基于歪朵拉K210模块 维基主页：https://widora.io/k210
--------------------------------------------------------
-官方SDK：https://github.com/kendryte/kendryte-standalone-sdk
-------------------------------------------------------------
+### 硬件基于歪朵拉K210模块 维基主页：https://widora.io/k210
+### 官方SDK：https://github.com/kendryte/kendryte-standalone-sdk
 
-目录：
------
+## 目录：
 `components`      存储测试完成可直接使用的组件<br>
 `examples`            存储测试完成可直接使用的例程<br>
 `modle`                   存储可使用模型<br>
