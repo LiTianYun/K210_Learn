@@ -6,6 +6,7 @@
 
 目录：
 -------
+'kendryte-standalone-sdk'     官方SDK<br>
 `components`      存储测试完成可直接使用的组件<br>
 `examples`            存储测试完成可直接使用的例程<br>
 `modle`                   存储可使用模型<br>
